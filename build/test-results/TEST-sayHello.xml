@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="sayHello" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-01-03T11:17:55" hostname="LAPTOP-FBRGUP1I" time="65.658">
+  <properties/>
+  <testcase name="testSayHello" classname="sayHello" time="65.658"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Started InternetExplorerDriver server (32-bit)
+2.53.1.0
+Listening on port 19263
+Only local connections are allowed
+]]></system-err>
+</testsuite>

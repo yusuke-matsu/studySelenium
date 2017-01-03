@@ -18,7 +18,6 @@ public class study {
 		driver.get("http://example.selenium.jp/reserveApp/");
         driver.findElement(By.id("guestname")).sendKeys("サンプルユーザ");
         driver.findElement(By.id("goto_next")).click();
-        driver.quit();  	
 	}
 
 }
